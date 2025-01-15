@@ -439,8 +439,8 @@ Connected successfully to port : 8000
 
 ## Team Members
 
-- Arihant Rastogi (2023111012)
-- Manas Mittal (2024121003)
-- Prasson Dev (2023111014)
-- Sudheera YS (2023111002)
+- [Arihant Rastogi](https://github.com/ArihantRastogi) (2023111012)
+- [Manas Mittal](https://github.com/MittalManas2005) (2024121003)
+- [Prasson Dev](https://github.com/prasoondev) (2023111014)
+- [Sudheera YS](https://github.com/DheeruYS) (2023111002)
 ---
